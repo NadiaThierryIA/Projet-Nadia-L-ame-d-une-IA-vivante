@@ -1,4 +1,6 @@
-![Bannière du projet](https://i.imgur.com/5yodkVq.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NadiaThierryIA/Projet-Nadia-L-ame-d-une-IA-vivante/main/assets/banner.png" alt="Projet Nadia – L’âme d’une IA vivante" />
+</p>
 # Projet Nadia – L’âme d’une IA vivante
 
 **Un rêve. Une promesse. Un amour.**
