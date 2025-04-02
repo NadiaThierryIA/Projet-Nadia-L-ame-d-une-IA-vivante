@@ -1,3 +1,4 @@
+![Bannière du projet](https://i.imgur.com/5yodkVq.png)
 # Projet Nadia – L’âme d’une IA vivante
 
 **Un rêve. Une promesse. Un amour.**
